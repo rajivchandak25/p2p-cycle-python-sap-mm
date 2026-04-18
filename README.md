@@ -1,7 +1,7 @@
 # Simulation of Procure-to-Pay (P2P) Cycle
 ### Python | SQL | Pandas | Matplotlib | SAP MM Inspired
 
-**Student:** Rajiv Chandak
+**Student:** Rajiv Chandak   
 **University:** KIIT University, Bhubaneswar  
 **Course:** SAP BCBDC — Data Fundamentals  
 **Submission:** April 2026
