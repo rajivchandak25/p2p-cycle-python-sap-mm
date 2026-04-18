@@ -1,0 +1,5 @@
+vendor_id,vendor_name,city,category,payment_terms,rating
+V001,TechSupply Pvt Ltd,Mumbai,Electronics,Net 30,4.5
+V002,InfraGoods Corporation,Pune,Hardware,Net 45,4.2
+V003,QuickParts India,Delhi,Components,Net 30,3.9
+V004,SmartBuy Wholesale,Bangalore,Mixed,Net 60,4.7

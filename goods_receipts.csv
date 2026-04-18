@@ -1,0 +1,7 @@
+gr_id,gr_date,po_id,material_id,received_qty,condition,received_by,movement_type
+GR3001,2024-01-18,PO2001,M001,5,Good,Warehouse A,101
+GR3002,2024-02-20,PO2002,M002,10,Good,Warehouse B,101
+GR3003,2024-03-19,PO2003,M003,4,Good,Warehouse A,101
+GR3004,2024-04-25,PO2004,M001,3,Good,Warehouse A,101
+GR3005,2024-05-28,PO2005,M004,20,Good,Warehouse B,101
+GR3006,2024-06-22,PO2006,M005,6,Good,Warehouse B,101

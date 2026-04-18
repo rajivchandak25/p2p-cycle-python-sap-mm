@@ -1,0 +1,7 @@
+pr_id,pr_date,material_id,quantity,department,requested_by,status
+PR1001,2024-01-05,M001,5,IT Dept,Rohan Mehta,Approved
+PR1002,2024-02-10,M002,10,Admin,Priya Sharma,Approved
+PR1003,2024-03-08,M003,4,Networking,Amit Joshi,Approved
+PR1004,2024-04-15,M001,3,IT Dept,Rohan Mehta,Approved
+PR1005,2024-05-20,M004,20,Operations,Neha Gupta,Approved
+PR1006,2024-06-12,M005,6,Finance,Suresh Patel,Approved

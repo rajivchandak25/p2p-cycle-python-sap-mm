@@ -1,0 +1,6 @@
+material_id,material_name,category,unit_of_measure,standard_price,stock_available
+M001,Laptop,Electronics,EA,55000,50
+M002,Office Chair,Furniture,EA,8500,30
+M003,Network Switch,Networking,EA,12000,20
+M004,Keyboard,Accessories,EA,1800,100
+M005,Monitor,Electronics,EA,18000,40
